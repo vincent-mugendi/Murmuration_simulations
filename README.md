@@ -1,5 +1,6 @@
 # Murmuration Simulation
-![Simulation Screenshot](https://ibb.co/x5YWLxw)
+
+[![Murmuration Simulation Screenshot](https://i.postimg.cc/zf23451Q/Screenshot-724.png)](https://postimg.cc/jWNsJp26)
 
 This Python program simulates the flocking behavior of birds using the Pygame library. It also includes predators that chase the birds. The simulation demonstrates three main behaviors of flocking:
 
