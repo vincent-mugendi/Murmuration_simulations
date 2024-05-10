@@ -12,7 +12,7 @@ This Python program simulates the flocking behavior of birds using the Pygame li
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/murmuration-simulation.git
+   git clone https://github.com/vincent-mugendi/murmuration_simulations.git
 
 2. Install Pygame
 ```pip install pygame```
